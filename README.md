@@ -1,6 +1,5 @@
 # 9ButtonArduino
 
-This is the Aruduino file in C++ for my 9-Button Synth.
 ## Goal
 The goal of this project was to create a digital musical instrument by building both hardware and software. My aim was to create a rather simple instrument with simple design, that has ability to create a variety of sounds by clicking on different combinations of the buttons. 
 ## Project
